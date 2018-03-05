@@ -1,6 +1,6 @@
 # README
 
-This is an app which is a VERY basic Reddit imitation. The user may sign up, submit a link, and comment on, upvote, downvote links. 
+This is an app which is a VERY basic Reddit imitation. The user may sign up, submit a link, and comment on, upvote, and downvote links. 
 
 Feedback is encouraged. Find me on Twitter: https://twitter.com/loudmouse312
 
