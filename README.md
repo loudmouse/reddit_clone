@@ -1,6 +1,6 @@
 # README
 
-This is an app which is a VERY basic Reddit imitation. The user may sign up, submit a link, and comment on, upvote, and downvote links. 
+This is an app which is a VERY basic Reddit imitation. The user may sign up, submit a link, and comment on, upvote, and downvote links. The apps is deployed live on Heroku here: https://arcane-gorge-57689.herokuapp.com/
 
 Feedback is encouraged. Find me on Twitter: https://twitter.com/loudmouse312
 
