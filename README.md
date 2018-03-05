@@ -2,6 +2,8 @@
 
 This is an app which is a VERY basic Reddit imitation. The user may sign up, submit a link, and comment on, upvote, downvote links. 
 
+Feedback is encouraged. Find me on Twitter: https://twitter.com/loudmouse312
+
 A few notes on what I've included:
 - The app is uses 3 models: link, user, and comment. 
 - Authentication is handled with Devise which will allow the user to login and out following signup. 
